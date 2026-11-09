@@ -1,0 +1,25 @@
+{
+  "mode": "auto",
+  "device": null,
+  "det_size": 640,
+  "person_size": 640,
+  "processing_width": 1280,
+  "analysis_fps": 8.0,
+  "person_confidence": 0.25,
+  "identity_threshold": 0.55,
+  "identity_margin": 0.08,
+  "confirmation_hits": 3,
+  "confirmation_seconds": 0.5,
+  "evidence_window_seconds": 3.0,
+  "lost_seconds": 2.0,
+  "min_face_pixels": 32,
+  "min_face_sharpness": 15.0,
+  "revalidate_seconds": 5.0,
+  "camera_names": {
+    "laptop": null,
+    "camo": null
+  },
+  "camera_width": 1280,
+  "camera_height": 720,
+  "max_upload_mb": 2048
+}

@@ -1,0 +1,2 @@
+-r common.txt
+onnxruntime-gpu==1.19.2
